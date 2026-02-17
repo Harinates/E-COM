@@ -1,0 +1,4 @@
+[?9001h[?1004h[?25l[2J[m[H]0;C:\Windows\system32\cmd.exe [?25h[?25l
+> admin@0.1.0 check-types C:\Users\Harinatesh\OneDrive\Desktop\E-Commerce\ECOM\apps\shadcn
+> tsc --noEmit[6;1H[?25h^C[30m[41m ELIFECYCLE [m [31mCommand failed with exit code 3221225786.
+[?9001l[?1004l[m
